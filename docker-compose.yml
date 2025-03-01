@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: okami-mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+  app:
+    build:
+      context: .
+    container_name: okami-digital-menu
+    restart: always
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongodb
+volumes:
+  mongo_data:
+    driver: local

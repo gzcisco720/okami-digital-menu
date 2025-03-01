@@ -1,0 +1,360 @@
+{
+  "TL0001": {
+    "description": "Traditional Miso soup with seaweed and tofu",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0036_miso soup.png",
+    "name": "MISO SOUP",
+    "category": "ENTREE"
+  },
+  "TL0002": {
+    "description": "Japanese style mini chicken and vegetable dim sims",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0024_shumai 6pcs.png",
+    "name": "SHUMAI",
+    "category": "ENTREE"
+  },
+  "TL0003": {
+    "description": "Boiled soybeans with a pinch of salt",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0046_edemame.png",
+    "name": "EDAMAME",
+    "category": "ENTREE"
+  },
+  "TL0004": {
+    "description": "Chef selected assorted Sushi and Sashimi pieces",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0018_sushi & sashimi l.png",
+    "name": "SUSHI & SASHIMI PLATTER",
+    "category": "ENTREE"
+  },
+  "TL0005": {
+    "description": "Chef selected assorted sushi roll pieces",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0015_sushi roll l.png",
+    "name": "SUSHI ROLL PLATTER",
+    "category": "Main Course"    
+  },
+  "TL0006": {
+    "description": "Chef selected assorted Sushi Nigiri pieces",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0032_nigiri l.png",
+    "name": "SUSHI NIGIRI PLATTER",
+    "category": "Main Course"
+  },
+  "TL0007": {
+    "description": "Lightly seared sliced steak served with Ponzu sauce and Wasabi Mayonnaise",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0058_beef carpaccio.png",
+    "name": "BEEF CARPACCIO",
+    "category": "Main Course"
+  },
+  "TL0008": {
+    "description": "Crispy fried tofu served with fish broth and Bonito flakes",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0059_agedashi tofu 4pcs.png",
+    "name": "AGEDASHI TOFU",
+    "category": "Main Course"
+  },
+  "TL0009": {
+    "description": "Pan fried prawn and vegetable dumplings",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0027_prawn gyoza 6pcs.png",
+    "name": "PRAWN GYOZA",
+    "category": "Main Course"
+  },
+  "TL0010": {
+    "description": "Pan fried vegetable dumplings",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0004_veg gyoza 6pcs.png",
+    "name": "VEGETABLE GYOZA",
+    "category": "Main Course"
+  },
+  "TL0011": {
+    "description": "Deep fried vegetable spring rolls (6 pcs)",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0022_spring roll.png",
+    "name": "VEGETABLE SPRING ROLLS (6 PCS)",
+    "category": "Main Course"
+  },
+  "TL0012": {
+    "description": "Crispy octopus balls served with Tonkatsu sauce and Wasabi Mayonnaise",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0012_takoyaki 6pcs.png",
+    "name": "TAKOYAKI (6 PCS)",
+    "category": "Main Course"
+  },
+  "TL0013": {
+    "description": "Crispy Fried Japanese style chicken bites served with Japanese Mayonnaise",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0057_chicken karaage.png",
+    "name": "CHICKEN KARAAGE",
+    "category": "Main Course"
+  },
+  "TL0014": {
+    "description": "Crispy vegetable strips served with tonkatsu sauce and Japanese mayonnaise",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0002_veg kakiage 4pcs.png",
+    "name": "VEGETABLE KAKIAGE",
+    "category": "Main Course"
+  },
+  "TL0015": {
+    "description": "Grilled eggplant served with Miso sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0045_eggplant.png",
+    "name": "EGGPLANT SALAD",
+    "category": "SALAD"
+  },
+  "TL0016": {
+    "description": "Seaweed Salad",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0026_seaweed salad.png",
+    "name": "SEAWEED SALAD",
+    "category": "SALAD"
+  },
+  "TL0017": {
+    "description": "King oyster mushrooms with a mild spicy seasoning",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0033_mushroom salad.png",
+    "name": "MUSHROOM SALAD",
+    "category": "SALAD"
+  },
+  "TL0018": {
+    "description": "Seasoned Squid Salad",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0021_squid salad.png",
+    "name": "SEASONED SQUID SALAD",
+    "category": "SALAD"
+  },
+  "TL0019": {
+    "description": "Japanese style potato croquette served with Tonkatsu sauce and Japanese Mayonnaise",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0029_potato croquette 4pcs.png",
+    "name": "POTATO CROQUETTE",
+    "category": "Main Course"
+  },
+  "TL0020": {
+    "description": "Grilled diced steak served with Teriyaki sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0007_teriyaki steak l.png",
+    "name": "TERIYAKI STEAK",
+    "category": "Main Course"
+  },
+  "TL0021": {
+    "description": "Grilled diced steak served with Miso sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0035_miso steak l.png",
+    "name": "MISO STEAK",
+    "category": "Main Course"
+  },
+  "TL0022": {
+    "description": "Stir fried beef slices with onions, served with yakiniku sauce and topped with roasted white sesame seeds",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0001_yakiniku beef l.png",
+    "name": "YAKINIKU BEEF",
+    "category": "Main Course"
+  },
+  "TL0023": {
+    "description": "Deep fried bread crumbed chicken fillet served with tonkatsu sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0056_chicken katsu.png",
+    "name": "CHICKEN KATSU",
+    "category": "Main Course"
+  },
+  "TL0024": {
+    "description": "Crispy chicken with Japanese curry sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0048_curry chicken.png",
+    "name": "CURRY CHICKEN",
+    "category": "Main Course"
+  },
+  "TL0025": {
+    "description": "Deep fried lightly battered prawn and vegetables served with Tempura sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0010_tempura 4pcs.png",
+    "name": "PRAWN & VEGETABLE TEMPURA",
+    "category": "Main Course"
+  },
+  "TL0026": {
+    "description": "Cooked Prawns",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0049_cooked prawn 8pcs.png",
+    "name": "COOKED PRAWN",
+    "category": "Main Course"
+  },
+  "TL0027": {
+    "description": "Stir fried udon noodles with sliced beef and vegetables",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0042_fried udon l.png",
+    "name": "STIR FRIED BEEF UDON",
+    "category": "Main Course"
+  },
+  "TL0028": {
+    "description": "Cold Soba noodle with shredded vegetables served with Japanese sesame sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0051_cold soba.png",
+    "name": "COLD SOBA NOODLE",
+    "category": "Main Course"
+  },
+  "TL0029": {
+    "description": "Steamed seasonal vegetables served with a pinch of salt",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0019_steamed veg.png",
+    "name": "STEAMED VEGETABLE",
+    "category": "Main Course"
+  },
+  "TL0030": {
+    "description": "Stir fried vegetables served with garlic sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0040_garlic veg.png",
+    "name": "VEGETABLE WITH GARLIC SAUCE",
+    "category": "Main Course"
+  },
+  "TL0031": {
+    "description": "Japanese sushi rice fried with diced vegetables and egg",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0044_fried rice l.png",
+    "name": "FRIED RICE",
+    "category": "Main Course"
+  },
+  "TL0032": {
+    "description": "Steamed Rice",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0020_steamed rice.png",
+    "name": "STEAMED RICE",
+    "category": "Main Course"
+  },
+  "TL0033": {
+    "description": "Served in cup | One serving per person",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0039_green.png",
+    "name": "OKAMI GREEN TEA ICE CREAM",
+    "category": "Dessert"
+  },
+  "TL0034": {
+    "description": "Served in cup | One serving per person",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0038_vanilla.png",
+    "name": "OKAMI VANILLA ICE CREAM",
+    "category": "Dessert"
+  },
+  "TL0035": {
+    "description": "Served in cup | One serving per person",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0037_black.png",
+    "name": "OKAMI BLACK SESAME ICE CREAM",
+    "category": "Dessert"
+  },
+  "TL0036": {
+    "description": "Deep fried Japanese fish-shaped cake filled with green tea and red bean paste | One serving per person",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0013_taiyaki.png",
+    "name": "GREEN TEA TAIYAKI",
+    "category": "Dessert"
+  },
+  "TL0037": {
+    "description": "Grilled chicken wings coated with a terrific sweet soy glaze (4 pcs)",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0053_chicken wings 4pcs.png",
+    "name": "GRILLED CHICKEN WINGS (4 PCS)",
+    "category": "Main Course"
+  },
+  "TL0038": {
+    "description": "Japanese flavour juicy chicken sausage skewers topped with yakiniku sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0054_chicken sausage 4pcs.png",
+    "name": "CHICKEN SAUSAGE SKEWERS",
+    "category": "Main Course"
+  },
+  "TL0039": {
+    "description": "Stir fried squid strips and vegetables with special honey & spicy sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0023_spicy ika.png",
+    "name": "SPICY IKA",
+    "category": "Main Course"
+  },
+  "TL0040": {
+    "description": "Chicken katsu on top of udon noodles served with Japanese curry sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0047_curry udon.png",
+    "name": "MINI KATSU CURRY UDON",
+    "category": "Main Course"
+  },
+  "TL0041": {
+    "description": "Grilled diced chicken maryland served with teriyaki sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/tl41-1729748020939(2).jpg",
+    "name": "TERIYAKI CHICKEN",
+    "category": "Main Course"
+  },
+  "TL0042": {
+    "description": "Served in cup | One serving per person",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/food_0052_christmas ice cream.png",
+    "name": "OKAMI WHITE CHOCOLATE & RASPBERRY ICE CREAM",
+    "category": "Dessert"
+  },
+  "TL0043": {
+    "description": "Chef Selected Assorted Aburi Sushi Nigiri Pieces (Selected From Salmon, Ebi, Tamago And Seafood Salad).",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/aburi nigiri platter - lrg.png",
+    "name": "ABURI NIGIRI PLATTER",
+    "category": "Main Course"
+  },
+  "TL0044": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/california roll - l.png",
+    "name": "CALIFORNIA ROLL"
+  },
+  "TL0045": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/cooked tuna roll - l.png",
+    "name": "COOKED TUNA ROLL"
+  },
+  "TL0046": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/cucumber & avocado roll - l.png",
+    "name": "CUCUMBER & AVOCADO ROLL"
+  },
+  "TL0047": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/veg roll - l.png",
+    "name": "VEGETABLE ROLL"
+  },
+  "TL0048": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/teriyaki chicken roll - l.png",
+    "name": "CRISPY CHICKEN ROLL"
+  },
+  "TL0049": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/tempura prawn roll - l.png",
+    "name": "TEMPURA PRAWN ROLL"
+  },
+  "TL0050": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/spicy tempura salmon roll - l.png",
+    "name": "SPICY TEMPURA SALMON ROLL"
+  },
+  "TL0051": {
+    "description": "Combination of teriyaki steak and miso steak in one plate!",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/steak combination l.png",
+    "name": "STEAK COMBINATION"
+  },
+  "TL0052": {
+    "description": "Combination of prawn gyoza and vegetable gyoza in one plate!",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/gyoza combination l.png",
+    "name": "GYOZA COMBINATION"
+  },
+  "TL0053": {
+    "description": "wasabi",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/wasabi.png",
+    "name": "WASABI"
+  },
+  "TL0054": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/sushi ginger.png",
+    "name": "GINGER"
+  },
+  "TL0055": {
+    "description": "Crab meat covered by crispy tempura served with Japanese Spicy Mayo",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/kani tempura.png",
+    "name": "KANI TEMPURA"
+  },
+  "TL0056": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/kid meal.png",
+    "name": "DINO MEAL"
+  },
+  "TL0057": {
+    "description": "",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/potato salad.png",
+    "name": "POTATO SALAD"
+  },
+  "TL0058": {
+    "description": "Black Sesame Flavour Edamame serve in Cold, a light and healthy snack.",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/black sesame edamame.png",
+    "name": "BLACK SESAME EDAMAME"
+  },
+  "TL0059": {
+    "description": "Yakiniku beef with kimchi sauce",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/kimchi beef.png",
+    "name": "KIMCHI BEEF"
+  },
+  "TL0060": {
+    "description": "Spicy sticky rice cakes with kimchi sauce.",
+    "image": "https://res.ziicloud.com/production/okami/pakenham_ziipos/spicy rice cake.png",
+    "name": "SPICY RICE CAKE"
+  },
+  "TL0061": {
+    "description": "Grilled diced chicken maryland bedded with garlic vegs, glazed with a rich honey pepper sauce.",
+    "image": "https://res.ziicloud.com/production/okami/pakenham_ziipos/honey pepper chicken.png",
+    "name": "HONEY PEPPER CHICKEN"
+  },
+  "TL0062": {
+    "description": "Thai style fried rice with chicken , onion and mixed vegetables, together with zesty Tom Yum sauce for a bold, flavorful twist.",
+    "image": "https://res.ziicloud.com/production/okami/pakenham_ziipos/thai fired rice.png",
+    "name": "THAI FRIED RICE"
+  },
+  "TL0063": {
+    "description": "One serving per person",
+    "image": "https://res.ziicloud.com/production/okami/sunbury_ziipos/ev01-1732687978588.jpg",
+    "name": "Christmas Sponge Cheesecake"
+  }
+}
